@@ -8,6 +8,7 @@
 
 #import "ViewController.h"
 #import "ArithmeticTestVC.h"
+#import "DynamicHegihtCellVC.h"
 @interface ViewController ()<UITableViewDelegate, UITableViewDataSource>
 @property (nonatomic, strong) NSArray *titles;
 @end
@@ -16,7 +17,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.titles = @[@"算法"];
+    self.titles = @[@"算法",@"移动中变化的cell"];
     // Do any additional setup after loading the view.
     UITableView *table = [[UITableView alloc] initWithFrame:self.view.bounds style:UITableViewStylePlain];
     [table registerClass:[UITableViewCell class] forCellReuseIdentifier:@"cell"];
@@ -40,7 +41,12 @@
             [self presentViewController:[[ArithmeticTestVC alloc] init] animated:YES completion:nil];
             }
             break;
-            
+        case 1:{
+            DynamicHegihtCellVC *vc = [[DynamicHegihtCellVC alloc] init];
+            [self presentViewController:vc animated:YES completion:nil];
+
+        }
+            break;
         default:
             break;
     }

@@ -17,6 +17,17 @@
 		EC1C9A57243ECF9700BFE3F0 /* iOSOfferTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EC1C9A56243ECF9700BFE3F0 /* iOSOfferTests.m */; };
 		EC1C9A62243ECF9700BFE3F0 /* iOSOfferUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EC1C9A61243ECF9700BFE3F0 /* iOSOfferUITests.m */; };
 		EC1C9A71243ECFC700BFE3F0 /* ArithmeticTestVC.m in Sources */ = {isa = PBXBuildFile; fileRef = EC1C9A70243ECFC700BFE3F0 /* ArithmeticTestVC.m */; };
+		EC1C9A74243EF57D00BFE3F0 /* DynamicHegihtCellVC.m in Sources */ = {isa = PBXBuildFile; fileRef = EC1C9A73243EF57D00BFE3F0 /* DynamicHegihtCellVC.m */; };
+		EC1C9A78243EF65F00BFE3F0 /* DynamicCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EC1C9A77243EF65F00BFE3F0 /* DynamicCell.m */; };
+		EC1C9A83243EFEAA00BFE3F0 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC1C9A7A243EFEAA00BFE3F0 /* 8.jpg */; };
+		EC1C9A84243EFEAA00BFE3F0 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC1C9A7B243EFEAA00BFE3F0 /* 4.jpg */; };
+		EC1C9A85243EFEAA00BFE3F0 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC1C9A7C243EFEAA00BFE3F0 /* 5.jpg */; };
+		EC1C9A86243EFEAA00BFE3F0 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC1C9A7D243EFEAA00BFE3F0 /* 7.jpg */; };
+		EC1C9A87243EFEAA00BFE3F0 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC1C9A7E243EFEAA00BFE3F0 /* 6.jpg */; };
+		EC1C9A88243EFEAA00BFE3F0 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC1C9A7F243EFEAA00BFE3F0 /* 2.jpg */; };
+		EC1C9A89243EFEAA00BFE3F0 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC1C9A80243EFEAA00BFE3F0 /* 3.jpg */; };
+		EC1C9A8A243EFEAA00BFE3F0 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC1C9A81243EFEAA00BFE3F0 /* 1.jpg */; };
+		EC1C9A8B243EFEAA00BFE3F0 /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC1C9A82243EFEAA00BFE3F0 /* 0.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +68,19 @@
 		EC1C9A63243ECF9700BFE3F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EC1C9A6F243ECFC700BFE3F0 /* ArithmeticTestVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ArithmeticTestVC.h; sourceTree = "<group>"; };
 		EC1C9A70243ECFC700BFE3F0 /* ArithmeticTestVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ArithmeticTestVC.m; sourceTree = "<group>"; };
+		EC1C9A72243EF57D00BFE3F0 /* DynamicHegihtCellVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DynamicHegihtCellVC.h; sourceTree = "<group>"; };
+		EC1C9A73243EF57D00BFE3F0 /* DynamicHegihtCellVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DynamicHegihtCellVC.m; sourceTree = "<group>"; };
+		EC1C9A76243EF65F00BFE3F0 /* DynamicCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DynamicCell.h; sourceTree = "<group>"; };
+		EC1C9A77243EF65F00BFE3F0 /* DynamicCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DynamicCell.m; sourceTree = "<group>"; };
+		EC1C9A7A243EFEAA00BFE3F0 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		EC1C9A7B243EFEAA00BFE3F0 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		EC1C9A7C243EFEAA00BFE3F0 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		EC1C9A7D243EFEAA00BFE3F0 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		EC1C9A7E243EFEAA00BFE3F0 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		EC1C9A7F243EFEAA00BFE3F0 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		EC1C9A80243EFEAA00BFE3F0 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		EC1C9A81243EFEAA00BFE3F0 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		EC1C9A82243EFEAA00BFE3F0 /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +139,7 @@
 				EC1C9A41243ECF9500BFE3F0 /* ViewController.m */,
 				EC1C9A6F243ECFC700BFE3F0 /* ArithmeticTestVC.h */,
 				EC1C9A70243ECFC700BFE3F0 /* ArithmeticTestVC.m */,
+				EC1C9A75243EF63500BFE3F0 /* DynamicCell */,
 				EC1C9A43243ECF9500BFE3F0 /* Main.storyboard */,
 				EC1C9A46243ECF9700BFE3F0 /* Assets.xcassets */,
 				EC1C9A48243ECF9700BFE3F0 /* LaunchScreen.storyboard */,
@@ -140,6 +165,34 @@
 				EC1C9A63243ECF9700BFE3F0 /* Info.plist */,
 			);
 			path = iOSOfferUITests;
+			sourceTree = "<group>";
+		};
+		EC1C9A75243EF63500BFE3F0 /* DynamicCell */ = {
+			isa = PBXGroup;
+			children = (
+				EC1C9A79243EFEAA00BFE3F0 /* images */,
+				EC1C9A72243EF57D00BFE3F0 /* DynamicHegihtCellVC.h */,
+				EC1C9A73243EF57D00BFE3F0 /* DynamicHegihtCellVC.m */,
+				EC1C9A76243EF65F00BFE3F0 /* DynamicCell.h */,
+				EC1C9A77243EF65F00BFE3F0 /* DynamicCell.m */,
+			);
+			path = DynamicCell;
+			sourceTree = "<group>";
+		};
+		EC1C9A79243EFEAA00BFE3F0 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				EC1C9A7A243EFEAA00BFE3F0 /* 8.jpg */,
+				EC1C9A7B243EFEAA00BFE3F0 /* 4.jpg */,
+				EC1C9A7C243EFEAA00BFE3F0 /* 5.jpg */,
+				EC1C9A7D243EFEAA00BFE3F0 /* 7.jpg */,
+				EC1C9A7E243EFEAA00BFE3F0 /* 6.jpg */,
+				EC1C9A7F243EFEAA00BFE3F0 /* 2.jpg */,
+				EC1C9A80243EFEAA00BFE3F0 /* 3.jpg */,
+				EC1C9A81243EFEAA00BFE3F0 /* 1.jpg */,
+				EC1C9A82243EFEAA00BFE3F0 /* 0.jpg */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -245,8 +298,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC1C9A8B243EFEAA00BFE3F0 /* 0.jpg in Resources */,
+				EC1C9A8A243EFEAA00BFE3F0 /* 1.jpg in Resources */,
+				EC1C9A83243EFEAA00BFE3F0 /* 8.jpg in Resources */,
 				EC1C9A4A243ECF9700BFE3F0 /* LaunchScreen.storyboard in Resources */,
+				EC1C9A87243EFEAA00BFE3F0 /* 6.jpg in Resources */,
+				EC1C9A88243EFEAA00BFE3F0 /* 2.jpg in Resources */,
 				EC1C9A47243ECF9700BFE3F0 /* Assets.xcassets in Resources */,
+				EC1C9A89243EFEAA00BFE3F0 /* 3.jpg in Resources */,
+				EC1C9A86243EFEAA00BFE3F0 /* 7.jpg in Resources */,
+				EC1C9A85243EFEAA00BFE3F0 /* 5.jpg in Resources */,
+				EC1C9A84243EFEAA00BFE3F0 /* 4.jpg in Resources */,
 				EC1C9A45243ECF9500BFE3F0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -274,7 +336,9 @@
 			files = (
 				EC1C9A42243ECF9500BFE3F0 /* ViewController.m in Sources */,
 				EC1C9A3C243ECF9500BFE3F0 /* AppDelegate.m in Sources */,
+				EC1C9A78243EF65F00BFE3F0 /* DynamicCell.m in Sources */,
 				EC1C9A4D243ECF9700BFE3F0 /* main.m in Sources */,
+				EC1C9A74243EF57D00BFE3F0 /* DynamicHegihtCellVC.m in Sources */,
 				EC1C9A3F243ECF9500BFE3F0 /* SceneDelegate.m in Sources */,
 				EC1C9A71243ECFC700BFE3F0 /* ArithmeticTestVC.m in Sources */,
 			);
